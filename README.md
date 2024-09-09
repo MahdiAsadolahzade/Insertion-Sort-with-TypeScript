@@ -21,5 +21,5 @@ Imagine you're building an event scheduling application where users can create e
 
 A start time and an end time (in HH:MM format).
 A title.
-- code [here](./Event_schedular_problem.ts)
+- code [here](./Event_scheduler_problem.ts)
 
