@@ -22,7 +22,7 @@ npm install
 
 #### Base Insertion Sort
 implement basic code of insertion sort
-:page_facing_up: code [here](Sorts/Insertion_Sort/Insertion_sort.ts)
+:link: code [here](Sorts/Insertion_Sort/Insertion_sort.ts)
 
 ```bash
 npm run insertionSort
@@ -31,7 +31,7 @@ npm run insertionSort
 #### Linear Search With Insertion Sort
 implement Linear search with insertion sort 
 also implement async await promise for getting inputs
-:page_facing_up: code [here](Sorts/Insertion_Sort/Linear_search_insertion_search.ts)
+:link: code [here](Sorts/Insertion_Sort/Linear_search_insertion_search.ts)
 ```bash
 npm run linearSearch
 ```
@@ -40,14 +40,14 @@ npm run linearSearch
 
 ##### Sorting Tasks
 Sorting Tasks by Priority and Deadline
-:page_facing_up: code [here](Sorts/Insertion_Sort/Sorting_taks_problem.ts)
+:link: code [here](Sorts/Insertion_Sort/Sorting_taks_problem.ts)
 ```bash
 npm run sortingTasks
 ```
 
 ##### Event Scheduler
 Event Scheduler Conflict Detection
-:page_facing_up: code [here](Sorts/Insertion_Sort/Event_scheduler_problem.ts)
+:link: code [here](Sorts/Insertion_Sort/Event_scheduler_problem.ts)
 ```bash
 npm run eventScheduler
 ```
