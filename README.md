@@ -1,25 +1,28 @@
-# Intro 
+# **Guide to TS Workshop**
 
-## Base Insertion Sort
-- code [here](./Insertion_sort.ts)
-
-## Linear Search with Inserion Sort
-- code [here](./Linear_search_insertion_search.ts)
-
-## Real Word Problem with Insertion Sort
+![TS Image](assets/pictures/ts.jpg)
 
 
-### **Problem : Sorting Tasks by Priority and Deadline**
-Imagine you are building a task management system where each task has a priority level and a deadline. Your goal is to sort the tasks based on:
+## **Sorts**
 
-* Priority (highest first).
-* If two tasks have the same priority, they should be sorted by deadline (soonest first).
-- code [here](./Sorting_taks_problem.ts)
+### **Insertion Sort**
 
-### **Problem : Event Scheduler Conflict Detection**
-Imagine you're building an event scheduling application where users can create events. Each event has:
+#### Base Insertion Sort
+implement basic code of insertion sort
+- code [here](Sorts/Insertion_Sort/Insertion_sort.ts)
 
-A start time and an end time (in HH:MM format).
-A title.
-- code [here](./Event_scheduler_problem.ts)
+#### Linear Search With Insertion Sort
+implement Linear search with insertion sort 
+also implement async await promise for getting inputs
+- code [here](Sorts/Insertion_Sort/Linear_search_insertion_search.ts)
+
+#### Real World Problems and Examples
+
+##### Sorting Tasks
+Sorting Tasks by Priority and Deadline
+- code [here](Sorts/Insertion_Sort/Sorting_taks_problem.ts)
+
+##### Event Scheduler
+Event Scheduler Conflict Detection
+- code [here](Sorts/Insertion_Sort/Event_scheduler_problem.ts)
 
