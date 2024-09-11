@@ -18,7 +18,7 @@ npm install
 
 ## :open_file_folder:Sorts
 
-### :1: **Insertion Sort**
+### :one: **Insertion Sort**
 
 #### Base Insertion Sort
 implement basic code of insertion sort
@@ -52,7 +52,7 @@ Event Scheduler Conflict Detection
 npm run eventScheduler
 ```
 
-### **Selection Sort**
+### :two: **Selection Sort**
 
 #### Base Selection Sort
 implement basic code of Selection sort
