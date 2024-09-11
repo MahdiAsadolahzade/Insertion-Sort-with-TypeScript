@@ -18,11 +18,11 @@ npm install
 
 ## :open_file_folder:Sorts
 
-### **Insertion Sort**
+### :1: **Insertion Sort**
 
 #### Base Insertion Sort
 implement basic code of insertion sort
-- :link:  code [here](Sorts/Insertion_Sort/Insertion_sort.ts)
+- :link:  code [here](Sorts/Insertion/Base/InsertionSort.ts)
 
 ```bash
 npm run insertionSort
@@ -31,7 +31,7 @@ npm run insertionSort
 #### Linear Search With Insertion Sort
 implement Linear search with insertion sort 
 also implement async await promise for getting inputs
-- :link:  code [here](Sorts/Insertion_Sort/Linear_search_insertion_search.ts)
+- :link:  code [here](Sorts/Insertion/Auxiliary/LinearSearch.ts)
 ```bash
 npm run linearSearch
 ```
@@ -40,14 +40,14 @@ npm run linearSearch
 
 ##### Sorting Tasks
 Sorting Tasks by Priority and Deadline
-- :link:  code [here](Sorts/Insertion_Sort/Sorting_taks_problem.ts)
+- :link:  code [here](Sorts/Insertion/Problems/SortingTaks.ts)
 ```bash
 npm run sortingTasks
 ```
 
 ##### Event Scheduler
 Event Scheduler Conflict Detection
-- :link:  code [here](Sorts/Insertion_Sort/Event_scheduler_problem.ts)
+- :link:  code [here](Sorts/Insertion/Problems/EventScheduler.ts)
 ```bash
 npm run eventScheduler
 ```
@@ -56,7 +56,7 @@ npm run eventScheduler
 
 #### Base Selection Sort
 implement basic code of Selection sort
-- :link:  code [here](Sorts/Selection_Sort/Selection_sort.ts)
+- :link:  code [here](Sorts/Selection/Base/SelectionSort.ts)
 
 ```bash
 npm run selectionSort
@@ -65,3 +65,10 @@ npm run selectionSort
 
 
 #### Real World Problems and Examples
+
+##### Sorting Students 
+Sorting Students Sorts by selection sort
+- :link:  code [here](Sorts/Selection/Problems/SortingStudents.ts)
+```bash
+npm run sortingStudents
+```

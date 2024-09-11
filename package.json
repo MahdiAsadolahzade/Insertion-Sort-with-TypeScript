@@ -1,10 +1,11 @@
 {
   "scripts": {
-    "insertionSort": "ts-node Sorts/Insertion_Sort/Insertion_sort.ts",
-    "linearSearch": "ts-node Sorts/Insertion_Sort/Linear_search_insertion_sort.ts",
-    "sortingTasks": "ts-node Sorts/Insertion_Sort/Sorting_tasks_problem.ts",
-    "eventScheduler": "ts-node Sorts/Insertion_Sort/Event_scheduler_problem.ts",
-    "selectionSort": "ts-node Sorts/Selection_Sort/Selection_sort.ts"
+    "insertionSort": "ts-node Sorts/Insertion/Base/InsertionSort.ts",
+    "linearSearch": "ts-node Sorts/Insertion/Auxiliary/LinearSearch.ts",
+    "sortingTasks": "ts-node Sorts/Insertion/Problems/SortingTasks",
+    "eventScheduler": "ts-node Sorts/Insertion/Problems/EventScheduler",
+    "selectionSort": "ts-node Sorts/Selection/Base/SelectionSort.ts",
+    "sortingStudents":"ts-node Sorts/Selection/Problems/SortingStudents.ts"
   },
   "devDependencies": {
     "@types/node": "^22.5.4"
