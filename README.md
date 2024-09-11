@@ -51,3 +51,17 @@ Event Scheduler Conflict Detection
 ```bash
 npm run eventScheduler
 ```
+
+### **Insertion Sort**
+
+#### Base Selection Sort
+implement basic code of Selection sort
+- :link:  code [here](Sorts/Selection_Sort/Selection_sort.ts)
+
+```bash
+npm run selectionSort
+```
+
+
+
+#### Real World Problems and Examples

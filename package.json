@@ -3,7 +3,8 @@
     "insertionSort": "ts-node Sorts/Insertion_Sort/Insertion_sort.ts",
     "linearSearch": "ts-node Sorts/Insertion_Sort/Linear_search_insertion_sort.ts",
     "sortingTasks": "ts-node Sorts/Insertion_Sort/Sorting_tasks_problem.ts",
-    "eventScheduler": "ts-node Sorts/Insertion_Sort/Event_scheduler_problem.ts"
+    "eventScheduler": "ts-node Sorts/Insertion_Sort/Event_scheduler_problem.ts",
+    "selectionSort": "ts-node Sorts/Selection_Sort/Selection_sort.ts"
   },
   "devDependencies": {
     "@types/node": "^22.5.4"
