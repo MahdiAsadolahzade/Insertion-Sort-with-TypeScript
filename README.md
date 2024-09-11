@@ -52,7 +52,7 @@ Event Scheduler Conflict Detection
 npm run eventScheduler
 ```
 
-### **Insertion Sort**
+### **Selection Sort**
 
 #### Base Selection Sort
 implement basic code of Selection sort
