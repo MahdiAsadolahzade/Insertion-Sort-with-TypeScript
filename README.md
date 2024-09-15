@@ -63,7 +63,6 @@ npm run selectionSort
 ```
 
 
-
 #### Real World Problems and Examples
 
 ##### Sorting Students 
@@ -71,4 +70,26 @@ Sorting Students Sorts by selection sort
 - :link:  code [here](Sorts/Selection/Problems/SortingStudents.ts)
 ```bash
 npm run sortingStudents
+```
+
+
+
+### :three: **Merge Sort**
+
+#### Base Merge Sort
+implement basic code of Merge sort
+- :link:  code [here](Sorts/Merge/Base/mergeSort.ts)
+
+```bash
+npm run mergeSort
+```
+
+
+#### Real World Problems and Examples
+
+##### Sorting Employees  
+Sorting Employee from different branches using merge sort
+- :link:  code [here](Sorts/Merge/Problems/sortingEmployees.ts)
+```bash
+npm run sortingEmployees
 ```
