@@ -93,3 +93,16 @@ Sorting Employee from different branches using merge sort
 ```bash
 npm run sortingEmployees
 ```
+
+
+## :open_file_folder:Searchs
+
+### :one: **Binary Search**
+
+#### Base Binary Search
+implement basic code of Binary Search
+- :link:  code [here](Searchs/Binary//Base//binarySearch.ts)
+
+```bash
+npm run binarySearch
+```

@@ -7,7 +7,8 @@
     "selectionSort": "ts-node Sorts/Selection/Base/SelectionSort.ts",
     "sortingStudents":"ts-node Sorts/Selection/Problems/SortingStudents.ts",
      "mergeSort":"ts-node Sorts/Merge/Base/mergeSort.ts",
-      "sortingEmployees":"ts-node Sorts/Merge/Problems/sortingEmployees.ts"
+      "sortingEmployees":"ts-node Sorts/Merge/Problems/sortingEmployees.ts",
+    "binarySearch":"ts-node Searchs/Binary/Base/binarySearch.ts"
   },
   "devDependencies": {
     "@types/node": "^22.5.4"
