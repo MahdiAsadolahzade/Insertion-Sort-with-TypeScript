@@ -5,10 +5,11 @@
     "sortingTasks": "ts-node Sorts/Insertion/Problems/SortingTasks",
     "eventScheduler": "ts-node Sorts/Insertion/Problems/EventScheduler",
     "selectionSort": "ts-node Sorts/Selection/Base/SelectionSort.ts",
-    "sortingStudents":"ts-node Sorts/Selection/Problems/SortingStudents.ts",
-     "mergeSort":"ts-node Sorts/Merge/Base/mergeSort.ts",
-      "sortingEmployees":"ts-node Sorts/Merge/Problems/sortingEmployees.ts",
-    "binarySearch":"ts-node Searchs/Binary/Base/binarySearch.ts"
+    "sortingStudents": "ts-node Sorts/Selection/Problems/SortingStudents.ts",
+    "mergeSort": "ts-node Sorts/Merge/Base/mergeSort.ts",
+    "sortingEmployees": "ts-node Sorts/Merge/Problems/sortingEmployees.ts",
+    "binarySearch": "ts-node Searchs/Binary/Base/binarySearch.ts",
+    "bubbleSort": "ts-node Sorts/Bubble/Base/bubbleSort.ts"
   },
   "devDependencies": {
     "@types/node": "^22.5.4"

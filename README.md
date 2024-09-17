@@ -94,6 +94,17 @@ Sorting Employee from different branches using merge sort
 npm run sortingEmployees
 ```
 
+### :four: **Bubble Sort**
+
+#### Base Bubble Sort
+- :link:  link [here](Sorts/Bubble/)
+
+```bash
+npm run bubbleSort
+```
+
+
+
 
 ## :open_file_folder:Searchs
 
