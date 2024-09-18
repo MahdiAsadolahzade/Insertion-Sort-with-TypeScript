@@ -117,3 +117,13 @@ implement basic code of Binary Search
 ```bash
 npm run binarySearch
 ```
+
+
+
+
+## :open_file_folder:Extra
+
+### :one: **UniqueCharacterStringValidator**
+
+- :link:   [here](Extra/UniqueCharacterStringValidator/)
+
