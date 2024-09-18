@@ -9,7 +9,8 @@
     "mergeSort": "ts-node Sorts/Merge/Base/mergeSort.ts",
     "sortingEmployees": "ts-node Sorts/Merge/Problems/sortingEmployees.ts",
     "binarySearch": "ts-node Searchs/Binary/Base/binarySearch.ts",
-    "bubbleSort": "ts-node Sorts/Bubble/Base/bubbleSort.ts"
+    "bubbleSort": "ts-node Sorts/Bubble/Base/bubbleSort.ts",
+    "productRatingSystem": "ts-node Sorts/Bubble/Problems/productRatingSystemProblem.ts"
   },
   "devDependencies": {
     "@types/node": "^22.5.4"
