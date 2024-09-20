@@ -127,3 +127,9 @@ npm run binarySearch
 
 - :link:   [here](Extra/UniqueCharacterStringValidator/)
 
+
+
+## :open_file_folder:Hash Map
+
+- :link:   [here](HashMap/)
+
