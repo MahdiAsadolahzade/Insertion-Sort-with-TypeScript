@@ -30,4 +30,9 @@ code [here](Base/hashMap.ts)
 ### First Non-Repeating Character
 Given a string, find the first non-repeating character and return its index. If it doesn't exist, return -1. This problem is often encountered in text processing, like in search engines or spell-checking systems.
 
-code [here](Problems/FirstNonRepeatingCharacter.ts)
+code [here](Problems/FirstNonRepeatingCharacter/index.ts)
+
+### First Non-Repeating Character
+Given two arrays, write a function to compute their intersection. Each element in the result must be unique. The result can be returned in any order.
+
+code [here](Problems/FindtheIntersectionOfTwoArrays/index.ts)

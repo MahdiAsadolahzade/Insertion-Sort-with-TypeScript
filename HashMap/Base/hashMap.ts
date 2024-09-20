@@ -7,6 +7,7 @@ type Entry<K, V> = {
 
 // HashMap Class
 
+// [key,value],[...]
 class HashMap<K, V> {
   private buckets: Array<Entry<K, V>[]>;
   private capacity: number;
