@@ -32,7 +32,16 @@ Given a string, find the first non-repeating character and return its index. If 
 
 code [here](Problems/FirstNonRepeatingCharacter/index.ts)
 
-### First Non-Repeating Character
+### Find the Intersection Of Two Arrays
 Given two arrays, write a function to compute their intersection. Each element in the result must be unique. The result can be returned in any order.
 
 code [here](Problems/FindtheIntersectionOfTwoArrays/index.ts)
+
+### Group Anagrams
+Given an array of strings, group the anagrams together. You can return the answer in any order.
+
+An Anagram is a word or phrase formed by rearranging the letters of another word, such as "listen" and "silent".
+
+
+code [here](Problems/GroupAnagrams/index.ts) $O(n)=n*klog(k)$
+code [here](Problems/GroupAnagrams/optimized.ts) $O(n)=n*k$
