@@ -133,3 +133,6 @@ npm run binarySearch
 
 - :link:   [here](HashMap/)
 
+## :open_file_folder:DivideAndConquer
+
+- :link:   [here](DivideAndConquer/)
